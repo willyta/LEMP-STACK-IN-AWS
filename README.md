@@ -156,7 +156,7 @@ phpinfo();
 
 Access the page in your web browser 
 
-`http://`server_domain_or_IP`/info.php`
+`http://server_domain_or_IP/info.php`
 
 ![PHP info page](./Images/info_php.JPG)
 
